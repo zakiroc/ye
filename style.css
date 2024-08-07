@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: yellow
+    
+}
+#users-container {
+    margin-top: 20px;
+    background-color: wheat;
+}
+.user {
+    border: 1px solid red;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+input, button {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid red;
+    color: red;
+    font-weight: bold;
+}
+
+button{
+    border-radius: 20px;
+    width: 200px;
+    height: 35px;
+    background-color: aquamarine;
+}
+
+input{
+    border-radius: 20px;
+    width: 200px;
+    height: 25px;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+.hello{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
